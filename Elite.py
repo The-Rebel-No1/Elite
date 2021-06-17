@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 
-#Create & Recode By Rehan khan
+#Create & Recode By The-Rebel & Mr-Rk
 #Lu Mau Recode, Mau Lu Apain Terserah Bro, Tapi Hargai Lah Karya Kami.
 #Gw Bikin Ni SC Sama Rizal Susah Payah, Ngerakit Sana Sini Banyak Error, Jgn Seenaknya Ganti Nama Author, Apalagi Ngalihin Botnya. Terima Kasih.
 
@@ -49,7 +49,7 @@ def banner():
 \033[0;96m   / ____/ (_) /____  \033[0;96m║ \033[0;97mCoded By \033[0;96mThe-Rebel \033[0;97m& \033[0;96mMr-Rk
 \033[0;96m  / __/ / / / __/ _ \ \033[0;96m║ \033[0;97mFB \033[0;96m: \033[0;97mFacebook.com/Rehan Khan
 \033[0;96m / /___/ / / /_/  __/ \033[0;96m║ \033[0;97mFB \033[0;96m: \033[0;97mFacebook.com/Mr-Rk
-\033[0;96m/_____/_/_/\__/\___/  \033[0;96m║ \033[0;97mGithub \033[0;96m: \033[0;97mGithub.com/The-Rebel/Elite
+\033[0;96m/_____/_/_/\__/\___/  \033[0;96m║ \033[0;97mGithub \033[0;96m: \033[0;97mGithub.com/The-Rebel/elite
 \033[0;96m─────────────────────────────────────────────────────────────""")
 
 host="https://mbasic.facebook.com"
