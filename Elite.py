@@ -55,7 +55,7 @@ def banner():
 \033[0;96m║ \033[0;97mFB \033[0;96m: \033[0;97mFacebook.com/Rehan Khan
 \033[0;96m║ \033[0;97mFB \033[0;96m: \033[0;97mFacebook.com/Mr-Rk
 \033[0;96m║ \033[0;97mGithub \033[0;96m: \033[0;97mGithub.com/The-Rebel/elite
-"""
+\033[0;96m─────────────────────────────────────────────────────────────""")
  
 host="https://mbasic.facebook.com"
 ua="Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
